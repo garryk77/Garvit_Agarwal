@@ -1,0 +1,30 @@
+.container{
+	background-image: url("https://image.freepik.com/free-vector/abstract-hand-painted-background-with-cool-colors_23-2148293331.jpg");
+	background-size: cover;
+	padding: 300px;
+
+}
+
+body {
+	text-align: center;
+}
+
+
+form {
+	border: 2px solid blue;
+	background-image: url("https://www.nationsonline.org/gallery/World/currencies.jpg") ;
+	padding-top: 80px;
+	padding-bottom: 80px;
+	padding-left: 50px;
+	text-align: left;
+	width: 50%;
+	background-size: cover;
+	color: pink;
+	background:rgba(0, 0, 0, 0.6);
+}
+
+	span{
+		color: white;
+	}
+	
+	
